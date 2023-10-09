@@ -1,0 +1,27 @@
+.caixa_vermelha{
+    border: 15px solid blue;
+    width:  500px;
+    height: 200px;
+    margin: 50px;
+    padding: 10px;
+}
+.caixa_amarela{
+    border: 10px solid yellow;
+    width: 600px;
+    height: 400px;
+    padding: 0px;
+    margin: 500px;
+}
+.caixa_verde{
+    border: 30px solid aquamarine;
+    width: 800px;
+    height: 600px;
+    padding: 5px;
+}
+.caixa_rosa{
+    border:  5px solid darkmagenta;
+    width: 700px;
+    height: px;
+    padding: 10px;
+    margin: 500px;
+}
